@@ -1,7 +1,7 @@
 # Macintosh
 
 ## Installation d'applications
-	install_adobeAir.sh	==>	Installe l'application adobe air en mode silencieux
+	*__install_adobeAir.sh__*	==>	Installe l'application adobe air en mode silencieux
 
 ## Configuration & gestion
-	config_guest.sh 	==>	Permet de configurer l'environnement de l'utilisateur invité.
+	*__config_guest.sh__* 	==>	Permet de configurer l'environnement de l'utilisateur invité.
